@@ -1,0 +1,5 @@
+*.ipynb
+.ipynb_checkpoints/ 
+info.log 
+secrets.py
+__pychache__/
